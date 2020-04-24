@@ -25,3 +25,5 @@ The files associated with this project (HousePricing) are the following :
 -Pub_HousePricing
 
 In this project, using linear regression we managed to achieve a learning rate of 76% and we were also able to integrate the model into a website so that anyone could predict the price of a house.
+
+In addition, you will find our medium article ("Article ML.pdf") telling the story of this project.
